@@ -19,5 +19,5 @@
 "birthday1": {"name": "陳a宝", "birthday": "2004-1-05"},
 "birthday2": {"name": "曾a宝", "birthday": "r2004-1-03"},
 # 在一起的日子，格式同上
-"love_date": "2025-2-09"
+"love_date": "2025-2-05"
 }
